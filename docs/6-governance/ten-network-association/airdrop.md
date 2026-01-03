@@ -68,7 +68,7 @@ For all eligible recipients **with less than 12,000 tokens available at TGE**:
 
 - **50%** of the allocated tokens unlock at **Token Generation Event (TGE)**.  
 - The **remaining 50%** are locked for **6 months**, with a **single, one-time unlock** after the 6-month period.  
-- The second unlock happens **not earlier than 27 May 2025**.
+- The second unlock happens **not earlier than 27 May 2026**.
 
 Even if you choose to claim later on **TEN Mainnet** (launch date shown at [roadmap.ten.xyz](https://roadmap.ten.xyz/)), your vesting still counts from TGE. When you claim, you will be able to receive all tokens that have already vested by that time.
 
@@ -100,7 +100,7 @@ Whether you claim on Ethereum at TGE or later on TEN Mainnet, the amount you can
 
 - At TGE:  
   - 50% unlocks → 2,000 TEN become claimable.  
-- After 6 months (not earlier than 27 May 2025):  
+- After 6 months (not earlier than 27 May 2026):  
   - The remaining 2,000 TEN unlock in a **single, one-time event**.
 
 There is **no weekly tranche logic** here because the TGE-available amount (2,000 TEN) is below 12,000 TEN.
